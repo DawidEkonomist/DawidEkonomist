@@ -53,6 +53,14 @@ Puszka obraca się przy przewijaniu i zmienia smak, z koszykiem.<br>
 <a href="https://symfonis.pl/realizacje/napoje/">Demo</a>
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+<img src="./profile/salon.jpg" alt="Strona salonu samochodów premium Halden" width="390">
+<br><b>Salon samochodów premium</b><br>
+12 aut z ceną, ratą i VIN-em, pokaz 360°: każde auto obracasz myszką.<br>
+<a href="https://symfonis.pl/realizacje/salon/">Demo</a>
+</td>
+</tr>
 </table>
 
 **Analiza danych**
