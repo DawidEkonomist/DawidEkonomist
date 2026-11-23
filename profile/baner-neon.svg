@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="260" viewBox="0 0 820 260" font-family="Consolas,'Courier New',monospace">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#00f5a0"/><stop offset="1" stop-color="#00d9f5"/></linearGradient>
+<filter id="s"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<pattern id="p" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M26 0H0V26" fill="none" stroke="#00f5a0" stroke-opacity=".08"/></pattern></defs>
+<style>.sk{animation:sk 3.5s linear infinite}@keyframes sk{from{transform:translateY(-10px)}to{transform:translateY(270px)}}</style>
+<rect width="820" height="260" rx="12" fill="#05080d"/><rect width="820" height="260" rx="12" fill="url(#p)"/>
+<rect class="sk" width="820" height="4" fill="#00f5a0" opacity=".25"/>
+<text x="40" y="56" fill="#00f5a0" font-size="24" opacity=".85">&lt;developer&gt;</text>
+<text x="780" y="56" fill="#00d9f5" font-size="20" text-anchor="end" opacity=".55">01000100 01010111</text>
+<text x="38" y="134" fill="url(#g)" font-size="66" font-weight="700" filter="url(#s)">DAWID STĘPNIEWSKI</text>
+<text x="40" y="190" fill="#e6edf3" font-size="30">Python · Web · Data &amp; Markets</text>
+<text x="40" y="232" fill="#00f5a0" font-size="24" opacity=".85">&lt;/developer&gt;</text>
+<text x="780" y="232" fill="#79c0ff" font-size="24" text-anchor="end">autor symfonis.pl</text>
+</svg>
