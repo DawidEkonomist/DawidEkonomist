@@ -70,7 +70,7 @@ Puszka obraca się przy przewijaniu i zmienia smak, z koszykiem.<br>
 
 ### Narzędzia
 
-<p><img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" height="48"> <img src="./profile/js-neon.svg" alt="JavaScript" height="48"> <img src="https://skillicons.dev/icons?i=html,css,threejs,nodejs,php&theme=dark" alt="HTML, CSS, three.js, Node.js, PHP" height="48"></p>
+<p><img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" height="48"> <img src="./profile/js-neon.svg" alt="JavaScript" height="48"> <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML" height="48"> <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS" height="48"> <img src="https://skillicons.dev/icons?i=threejs&theme=dark" alt="three.js" height="48"> <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" height="48"> <img src="https://skillicons.dev/icons?i=php&theme=dark" alt="PHP" height="48"></p>
 
 Do tego Excel, Stripe, AI do zdjęć i filmów oraz Claude do automatyzacji.
 
