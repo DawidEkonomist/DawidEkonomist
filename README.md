@@ -2,7 +2,7 @@
 
 Buduję strony internetowe, narzędzia do analizy rynku i automatyzacje z AI. Uczę się Pythona (PCAP) i finansów (CFA Investment Foundations).
 
-Jestem autorem strony **[symfonis.pl](https://symfonis.pl)**: projekt, sklep z płatnościami Stripe i czat, który sam liczy wycenę.
+Jestem autorem strony **[symfonis.pl](https://symfonis.pl)**: projekt i czat, który sam liczy wycenę.
 
 ### Wykształcenie
 
@@ -20,7 +20,7 @@ Jestem autorem strony **[symfonis.pl](https://symfonis.pl)**: projekt, sklep z p
 ### Teraz pracuję nad
 
 - **FX Desk:** 15 nowych rynków (złoto, waluty egzotyczne, krypto), ponad 1000 testów automatycznych.
-- **symfonis.pl:** płatności Stripe na żywo, czat z 58 tematami, który rozumie literówki.
+- **symfonis.pl:** czat z 58 tematami, który rozumie literówki.
 
 ### Projekty
 
@@ -34,8 +34,8 @@ Dane z giełdy na żywo, order flow, wolumen na poziomach ceny i statystyki w st
 </td>
 <td width="50%" valign="top">
 <img src="./profile/agent.jpg" alt="Czat z wyceną na symfonis.pl" width="390">
-<br><b>Czat z wyceną i płatnością</b><br>
-Odpowiada na pytania klientów, liczy wycenę i otwiera płatność Stripe. Działa na symfonis.pl.<br>
+<br><b>Czat z wyceną</b><br>
+Odpowiada na pytania klientów, liczy wycenę. Działa na symfonis.pl.<br>
 <a href="https://symfonis.pl">Wypróbuj</a>
 </td>
 </tr>
@@ -72,6 +72,6 @@ Puszka obraca się przy przewijaniu i zmienia smak, z koszykiem.<br>
 
 <p><img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" height="48"> <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" height="48"> <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML" height="48"> <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS" height="48"> <img src="https://skillicons.dev/icons?i=threejs&theme=dark" alt="three.js" height="48"> <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" height="48"> <img src="https://skillicons.dev/icons?i=php&theme=dark" alt="PHP" height="48"></p>
 
-Do tego Excel, Stripe, AI do zdjęć i filmów oraz Claude do automatyzacji.
+Do tego Excel, AI do zdjęć i filmów oraz Claude do automatyzacji.
 
 <sub>Kod większości projektów jest prywatny. Pokazuję dema i najważniejsze fragmenty.</sub>
