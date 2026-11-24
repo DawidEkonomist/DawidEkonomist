@@ -66,7 +66,7 @@ Puszka obraca się przy przewijaniu i zmienia smak, z koszykiem.<br>
 **Analiza danych**
 
 - [Analiza inflacji w Polsce 2015–2025](https://github.com/DawidEkonomist/analiza-inflacji-polska): inflacja a średnie wynagrodzenia.
-- [Dashboard portfela inwestycyjnego](https://github.com/DawidEkonomist/CVPorjekt): Excel i Python.
+- [Dashboard portfela inwestycyjnego](https://github.com/DawidEkonomist/investment-portfolio-dashboard): Excel i Python.
 
 ### Narzędzia
 
